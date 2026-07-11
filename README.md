@@ -4,7 +4,7 @@ An end-to-end data analysis project exploring global layoffs from 2020 to 2023, 
 
 🔗 **[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/ayesha.zahir/viz/Layoffs_17837884809660/Dashboard1?publish=yes)**
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Layoff-Dashboard.png)
 
 
 ## Project Overview
