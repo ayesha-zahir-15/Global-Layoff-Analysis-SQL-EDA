@@ -35,7 +35,7 @@ After cleaning, SQL was used to explore patterns in the data and validate insigh
 - Comparing average layoffs by company funding stage
 - Verifying industry classifications for top companies (e.g., confirming Amazon, Google, and Meta fall under different industry categories rather than a single "Tech" label)
 
-See [`Exploratory Data Analysis`](Exploratory Data Analysis.sql) for the full set of exploratory queries.
+See[Exploratory Data Analysis](Exploratory%20Data%20Analysis.sql) for the full set of exploratory queries.
 
 
 ## 3. Interactive Dashboard
