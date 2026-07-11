@@ -4,16 +4,16 @@ An end-to-end data analysis project exploring global layoffs from 2020 to 2023, 
 
 🔗 **[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/ayesha.zahir/viz/Layoffs_17837884809660/Dashboard1?publish=yes)**
 
-![Dashboard Screenshot](images/Layoff-Dashboard.png)
+![Dashboard Screenshot](Layoff-Dashboard.png)
 
 
 ## Project Overview
 
 This project uses a global layoffs dataset (2020–2023) to explore workforce reductions across industries, companies, funding stages, and geography. The workflow followed three stages:
 
-1. **Data Cleaning** — using MySQL Workbench
-2. **Exploratory Data Analysis (EDA)** — using SQL
-3. **Interactive Dashboard** — built in Tableau Public
+1. **Data Cleaning** using MySQL Workbench
+2. **Exploratory Data Analysis (EDA)** using SQL
+3. **Interactive Dashboard** built in Tableau Public
 
 
 ## 1. Data Cleaning
@@ -35,7 +35,7 @@ After cleaning, SQL was used to explore patterns in the data and validate insigh
 - Comparing average layoffs by company funding stage
 - Verifying industry classifications for top companies (e.g., confirming Amazon, Google, and Meta fall under different industry categories rather than a single "Tech" label)
 
-See [`Exploratory Data Analysis.sql`](Exploratory Data Analysis.sql) for the full set of exploratory queries.
+See [`Exploratory Data Analysis`](Exploratory Data Analysis.sql) for the full set of exploratory queries.
 
 
 ## 3. Interactive Dashboard
